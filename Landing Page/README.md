@@ -1,7 +1,7 @@
 # Landing Page MetaBrain
 
 Este é um projeto de landing page simples. Algumas partes do código foram adaptadas dos templates fornecidos pelo Tailwind CSS, um framework de código aberto. O restante do código foi desenvolvido independentemente.
-![](https://imgur.com/0Bfzdsq)
+![]([https://imgur.com/0Bfzdsq](https://i.imgur.com/0Bfzdsq.png))
 ## Licença
 
 Este projeto é licenciado pela [Licença MIT](LICENSE). Isso significa que você é livre para visualizar, usar e modificar este código para fins pessoais e comerciais, desde que inclua a declaração de licença no código-fonte ou na documentação associada.
